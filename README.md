@@ -4,32 +4,22 @@ A fullstack productivity web app designed to help users manage grocery lists eff
 
 ✨ Features
 🔐 User Authentication with JWT (Login / Signup)
-
 📁 Create Categories for organizing your groceries
-
 📝 Create Lists within categories (e.g., "Weekly Shopping")
-
 ✅ Add / Update / Delete Items in each list
-
 🧠 Built with a clean state-managed UI and RESTful backend
 
 🧱 Tech Stack
-👨‍🎨 Frontend
+👨‍🎨 Frontend 
 React.js
-
 Redux (for state management)
-
 HTML & CSS
-
 Axios for API calls
 
 ⚙️ Backend
 Node.js with Express.js
-
 MongoDB with Mongoose
-
 JWT for Authentication
-
 CORS, Helmet, dotenv, and other middlewares
 
 
